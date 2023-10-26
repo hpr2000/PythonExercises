@@ -1,0 +1,16 @@
+<data>
+	<person>
+		<name>Harvey</name>
+		<age>40</age>
+		<city>New York City</city>
+		<state>NY</state>
+		<country>USA</country>
+	</person>
+	<person>
+		<name>Kabir</name>
+		<age>30</age>
+		<city>Udaipur</city>
+		<state>Rajasthan</state>
+		<country>India</country>
+	</person>
+</data>
